@@ -35,14 +35,13 @@ You have been hired by a new company called StudentCars to design their inventor
 
 This project demonstrates the following design patterns:
 
-1. **Factory Method Pattern**: Implemented in Scenario 1, Case 1, for creating age-specific operating systems.
+1. **Singleton Pattern**: Implemented in Scenario 1, for creating a kingdom where only one king can exist at any time.
 
 2. **Observer Pattern**: Implemented in Scenario 2, for managing the NewsOnScreen subscription service.
 
-3. **Builder Pattern**: Implemented in Scenario 3, Case 6, for designing and configuring car models in the StudentCars inventory system.
+3. **Builder Pattern**: Implemented in Scenario 3, for designing and configuring car models in the StudentCars inventory system.
 
 ---
-
 
 
 ## Contributing
