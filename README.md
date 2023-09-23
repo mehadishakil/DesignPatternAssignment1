@@ -7,10 +7,7 @@ This repository contains the implementation and documentation of a project that 
 - [Introduction](#introduction)
 - [Scenarios](#scenarios)
 - [Implemented Design Patterns](#implemented-design-patterns)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -30,7 +27,7 @@ You decide to start a new subscription service called NewsOnScreen. The objectiv
 
 ### Scenario 3
 
-
+You have been hired by a new company called StudentCars to design their inventory system. The company produces two models (Amaze and Awe) which differ by the number of seats. Both the models offer the basic functionalities of a car which is to function as a mode of transport. Additional options include adding a Radio system, Bose MP3 system, Leather seats and Wheel illumination. Design and implement the inventory system.
 
 ---
 
@@ -46,8 +43,8 @@ This project demonstrates the following design patterns:
 
 ---
 
-Feel free to clone this repository and experiment with the code.
+
 
 ## Contributing
 
-If you have suggestions or improvements for any of the scenarios or design patterns, please feel free to contribute by opening an issue or a pull request.
+Feel free to clone this repository and experiment with the code. If you have suggestions or improvements for any of the scenarios or design patterns, please contribute by opening an issue or a pull request.
