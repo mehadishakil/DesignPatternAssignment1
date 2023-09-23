@@ -37,7 +37,7 @@ This project demonstrates the following design patterns:
 
 1. **Factory Method Pattern**: Implemented in Scenario 1, Case 1, for creating age-specific operating systems.
 
-2. **Observer Pattern**: Implemented in Scenario 2, Case 4, for managing the NewsOnScreen subscription service.
+2. **Observer Pattern**: Implemented in Scenario 2, for managing the NewsOnScreen subscription service.
 
 3. **Builder Pattern**: Implemented in Scenario 3, Case 6, for designing and configuring car models in the StudentCars inventory system.
 
