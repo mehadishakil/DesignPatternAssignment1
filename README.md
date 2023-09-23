@@ -1,6 +1,7 @@
-Tasks:
+#Tasks:
 Carefully read the given task. Marks are often needlessly lost by not delivering what is
 requested.
+
 You are required to demonstrate your comprehension of a number of Design Patterns that
 you have studied in this module. To be able to complete this assessment it is important that
 you attend the lectures to participate and engage when the presented case studies will be
